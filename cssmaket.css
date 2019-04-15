@@ -1,0 +1,126 @@
+#z{
+    width: 150px;
+    height: 150px;
+    padding-left: 40px;
+    float: left;
+   
+}
+.cont{
+    width: 1300px;
+ 
+    margin: 0 auto;
+
+
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    float: right;
+    padding: 0;
+    margin: 0;
+    display: block;
+    padding-top: 50px;
+}
+li{
+  float: left;
+    display: block;
+    margin: 10px;
+   padding-right: 40px;
+   
+
+}
+.blue{
+    width: 1300px;
+    background-color:blue;
+    height: 500px;
+    clear:both;
+    margin: 0 auto;
+}
+#t1{
+    text-align:center;
+    padding-top: 60px;
+    color: white;
+}
+#t2{
+    text-align:center;
+
+    color: white;
+}
+form{
+    text-align:center;
+}
+.input{
+  
+}
+
+#tv{ 
+width: 350px;
+height: 200px;
+position: relative;
+top:170px;
+left:475px;
+}
+#t3{
+    text-align:center;
+    padding-top: 100px;  
+}
+
+#left{
+    width: 50%;
+    float: left;
+    margin-top: 50px;
+}
+#right{
+    width: 50%;
+    float: right;
+    margin-top: 50px;
+
+}
+#i{
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+#p{
+    text-transform: uppercase;
+   text-indent: 20px;
+}
+
+.title{
+    text-align:center;
+} 
+.yellow{
+    width: 1300px;
+    background-color:yellow;
+    height: 500px;
+    clear:both;
+   margin-top:450px;
+
+}
+#rabota{
+    height:500px; 
+    width:650px;
+    float: left;
+}
+#us{
+text-transform: uppercase;
+padding-left: 50px;
+color: white;
+}
+#text{
+    padding: 0 50px; 
+    text-align: justify; 
+    color: white;
+}
+#button{
+background-color:yellow;
+ width: 130px;
+ text-transform: uppercase;
+ padding: 10px 40px;
+ text-align: center;
+ font-weight: bold;
+ margin:20px 50px;
+
+}
